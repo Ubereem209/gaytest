@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gaytest/static/css/main.1866fdea.chunk.css",
-    "main.js": "/gaytest/static/js/main.9af8f93a.chunk.js",
-    "main.js.map": "/gaytest/static/js/main.9af8f93a.chunk.js.map",
+    "main.js": "/gaytest/static/js/main.56baef9f.chunk.js",
+    "main.js.map": "/gaytest/static/js/main.56baef9f.chunk.js.map",
     "runtime-main.js": "/gaytest/static/js/runtime-main.716aa543.js",
     "runtime-main.js.map": "/gaytest/static/js/runtime-main.716aa543.js.map",
     "static/js/2.ab23a2bf.chunk.js": "/gaytest/static/js/2.ab23a2bf.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.716aa543.js",
     "static/js/2.ab23a2bf.chunk.js",
     "static/css/main.1866fdea.chunk.css",
-    "static/js/main.9af8f93a.chunk.js"
+    "static/js/main.56baef9f.chunk.js"
   ]
 }
