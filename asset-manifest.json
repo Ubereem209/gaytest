@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gaytest/static/css/main.1866fdea.chunk.css",
+    "main.js": "/gaytest/static/js/main.b074749a.chunk.js",
+    "main.js.map": "/gaytest/static/js/main.b074749a.chunk.js.map",
+    "runtime-main.js": "/gaytest/static/js/runtime-main.716aa543.js",
+    "runtime-main.js.map": "/gaytest/static/js/runtime-main.716aa543.js.map",
+    "static/js/2.ab23a2bf.chunk.js": "/gaytest/static/js/2.ab23a2bf.chunk.js",
+    "static/js/2.ab23a2bf.chunk.js.map": "/gaytest/static/js/2.ab23a2bf.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/gaytest/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/gaytest/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/gaytest/index.html",
+    "static/css/main.1866fdea.chunk.css.map": "/gaytest/static/css/main.1866fdea.chunk.css.map",
+    "static/js/2.ab23a2bf.chunk.js.LICENSE.txt": "/gaytest/static/js/2.ab23a2bf.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/gaytest/static/media/1.75f03515.png",
+    "static/media/reset.css": "/gaytest/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.716aa543.js",
+    "static/js/2.ab23a2bf.chunk.js",
+    "static/css/main.1866fdea.chunk.css",
+    "static/js/main.b074749a.chunk.js"
+  ]
+}
